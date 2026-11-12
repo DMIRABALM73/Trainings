@@ -16,4 +16,4 @@ Training and study materials, supported by AI.
 
 ## Contributing
 
-See `/home/runner/work/Trainings/Trainings/CONTRIBUTING.md`.
+See [CONTRIBUTING.md](CONTRIBUTING.md).
